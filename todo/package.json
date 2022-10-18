@@ -1,12 +1,12 @@
 {
   "name": "todo",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "blahblah",
+  "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.jsonn"
+    "start": "json-server --watch db.json"
   },
-  "author": "",
+  "author": "alex",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
